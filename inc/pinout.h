@@ -23,5 +23,6 @@
 										0                     \
 										}   										
 #define UART_PORT_CLK_ENABLE 										
-#endif //__PINOUT_H__
+#endif //__PINOUT_H__					
+
 										

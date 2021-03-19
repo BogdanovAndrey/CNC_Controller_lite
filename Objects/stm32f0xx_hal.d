@@ -16,6 +16,10 @@
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_rcc_ex.h
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_gpio.h
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_gpio_ex.h
+.\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_dma.h
+.\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_dma_ex.h
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_cortex.h
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_flash.h
 .\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_flash_ex.h
+.\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_tim.h
+.\objects\stm32f0xx_hal.o: D:\Dissertation\J\Prog\Keil_Eval\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\STM32F0xx_HAL_Driver\Inc\stm32f0xx_hal_tim_ex.h

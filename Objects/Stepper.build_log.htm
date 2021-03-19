@@ -22,15 +22,22 @@ Dialog DLL:      TARMCM1.DLL V1.14.1.0
  
 <h2>Project:</h2>
 D:\Dissertation\J\Hard_proj\PWM_STM\Stepper.uvprojx
-Project File Date:  03/16/2021
+Project File Date:  03/19/2021
 
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Dissertation\J\Prog\Keil_Eval\ARM\ARMCC\Bin'
 Build target 'Target 1'
 compiling main.c...
+.\inc\rcc_settings.h(23): warning:  #1-D: last line of file ends without a newline
+                                        
+.\inc\pinout.h(28): warning:  #1-D: last line of file ends without a newline
+                                                                                
+.\inc\settings.h(9): warning:  #1-D: last line of file ends without a newline
+                                        
+src\main.c: 3 warnings, 0 errors
 linking...
 Program Size: Code=2716 RO-data=308 RW-data=4 ZI-data=1636  
-".\Objects\Stepper.axf" - 0 Error(s), 0 Warning(s).
+".\Objects\Stepper.axf" - 0 Error(s), 3 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -46,9 +53,11 @@ Package Vendor: Keil
                 STMicroelectronics STM32F0 Series Device Support, Drivers and Examples
    * Component: COMMON Version: 1.7.0
    * Component: CORTEX Version: 1.7.0
+   * Component: DMA Version: 1.7.0
    * Component: FLASH Version: 1.7.0
    * Component: GPIO Version: 1.7.0
    * Component: RCC Version: 1.7.0
+   * Component: TIM Version: 1.7.0
    * Component: Startup Version: 1.0.0
 
 <h2>Collection of Component include folders:</h2>
@@ -78,6 +87,9 @@ Package Vendor: Keil
    * Component: Keil.Standalone::Device:STM32Cube HAL:CORTEX:1.7.0
       Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_cortex.c
 
+   * Component: Keil.Standalone::Device:STM32Cube HAL:DMA:1.7.0
+      Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_dma.c
+
    * Component: Keil.Standalone::Device:STM32Cube HAL:FLASH:1.7.0
       Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash.c
       Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_flash_ex.c
@@ -89,12 +101,16 @@ Package Vendor: Keil
       Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc.c
       Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_rcc_ex.c
 
+   * Component: Keil.Standalone::Device:STM32Cube HAL:TIM:1.7.0
+      Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim.c
+      Source file:   Drivers\STM32F0xx_HAL_Driver\Src\stm32f0xx_hal_tim_ex.c
+
    * Component: Keil.Standalone::Device:Startup:1.0.0
       Source file:   MDK\Device\Source\ARM\STM32F0xx_OPT.s
       Include file:  Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
       Source file:   Drivers\CMSIS\Device\ST\STM32F0xx\Source\Templates\arm\startup_stm32f091xc.s
       Source file:   Drivers\CMSIS\Device\ST\STM32F0xx\Source\Templates\system_stm32f0xx.c
-Build Time Elapsed:  00:00:02
+Build Time Elapsed:  00:00:08
 </pre>
 </body>
 </html>

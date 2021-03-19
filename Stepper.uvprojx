@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define>USE_FULL_LL_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>.\Library;.\inc;.\src</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -385,12 +385,12 @@
             <File>
               <FileName>main.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\main.c</FilePath>
+              <FilePath>.\src\main.c</FilePath>
             </File>
             <File>
               <FileName>main.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\main.h</FilePath>
+              <FilePath>.\inc\main.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -400,22 +400,22 @@
             <File>
               <FileName>pinout.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\pinout.h</FilePath>
+              <FilePath>.\inc\pinout.h</FilePath>
             </File>
             <File>
               <FileName>settings.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\settings.h</FilePath>
+              <FilePath>.\inc\settings.h</FilePath>
             </File>
             <File>
               <FileName>rcc_settings.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\rcc_settings.h</FilePath>
+              <FilePath>.\inc\rcc_settings.h</FilePath>
             </File>
             <File>
               <FileName>tim_settings.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\tim_settings.h</FilePath>
+              <FilePath>.\inc\tim_settings.h</FilePath>
             </File>
           </Files>
         </Group>
