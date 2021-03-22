@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EN_IN_2 Pin=IOH-1
+Added Pin To Net: NetName=EN_IN_2 Pin=IOL-3
+Added Pin To Net: NetName=IO8 Pin=IOH-1
+Added Net: Name=IO8

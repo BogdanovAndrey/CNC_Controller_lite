@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCL Pin=X8-1
+Removed Pin From Net: NetName=SDA Pin=X8-2
+Removed Pin From Net: NetName=3V3 Pin=X8-3
+Removed Pin From Net: NetName=GND Pin=X8-4
+Removed Member From Class: ClassName=ArduinoUnoShield Member=X8
+Added Component: Designator=DISP1(DISP: OPEN_SMART_0.96inch_OLED)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SCL Pin=DISP1-1
+Added Pin To Net: NetName=SDA Pin=DISP1-2
+Added Pin To Net: NetName=3V3 Pin=DISP1-3
+Added Pin To Net: NetName=GND Pin=DISP1-4
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component DISP1 OLED

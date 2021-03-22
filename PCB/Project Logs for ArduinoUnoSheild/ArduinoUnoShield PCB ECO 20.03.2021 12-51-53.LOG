@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=AD3 Pin=R11-1
+Added Net: Name=AD3
+Added Pin To Net: NetName=IO3 Pin=R33-1
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=R12-1
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=R32-1
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=R22-1
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=R10-1
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=R34-1
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO10 Pin=R23-1
+Added Net: Name=IO10
+Added Pin To Net: NetName=IO12 Pin=X2-1
+Added Pin To Net: NetName=IO12 Pin=X2-2
+Added Pin To Net: NetName=IO12 Pin=X4-1
+Added Pin To Net: NetName=IO12 Pin=X4-2
+Added Pin To Net: NetName=IO12 Pin=X6-1
+Added Pin To Net: NetName=IO12 Pin=X6-2
+Added Net: Name=IO12
+Added Pin To Net: NetName=IO13 Pin=R21-1
+Added Net: Name=IO13

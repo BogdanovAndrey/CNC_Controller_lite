@@ -1,0 +1,12 @@
+Added Component: Designator=X8(CON: PBS-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentKind"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=X8-1
+Added Pin To Net: NetName=SDA Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-4
+Added Pin To Net: NetName=3V3 Pin=X8-3
+Added Net: Name=3V3
+Added Member To Class: ClassName=ArduinoUnoShield Member=Component X8 *

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIR_IN_1 Pin=AD-4
+Removed Pin From Net: NetName=EN_IN_1 Pin=IOL-5
+Added Pin To Net: NetName=EN_IN_1 Pin=AD-4
+Added Pin To Net: NetName=DIR_IN_1 Pin=IOL-5

@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=AD3 New Net Name=DIR_IN_1
+Change Net Name : Old Net Name=IO3 New Net Name=DIR_IN_3
+Change Net Name : Old Net Name=IO4 New Net Name=EN_IN_1
+Change Net Name : Old Net Name=IO5 New Net Name=PWM_IN_3
+Change Net Name : Old Net Name=IO6 New Net Name=DIR_IN_2
+Change Net Name : Old Net Name=IO7 New Net Name=PWM_IN_1
+Change Net Name : Old Net Name=IO8 New Net Name=EN_IN_3
+Change Net Name : Old Net Name=IO10 New Net Name=EN_IN_2
+Change Net Name : Old Net Name=IO13 New Net Name=PWM_IN_2

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EN_IN_3 Pin=IOH-1
+Removed Pin From Net: NetName=EN_IN_2 Pin=IOH-3
+Removed Pin From Net: NetName=DIR_IN_3 Pin=IOL-4
+Removed Pin From Net: NetName=DIR_IN_2 Pin=IOL-7
+Added Pin To Net: NetName=EN_IN_2 Pin=IOH-1
+Added Pin To Net: NetName=EN_IN_3 Pin=IOH-3
+Added Pin To Net: NetName=DIR_IN_2 Pin=IOL-4
+Added Pin To Net: NetName=DIR_IN_3 Pin=IOL-7

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM_IN_2 Pin=IOH-6
+Removed Pin From Net: NetName=PWM_IN_3 Pin=IOL-6
+Removed Pin From Net: NetName=PWM_IN_1 Pin=IOL-8
+Added Pin To Net: NetName=PWM_IN_3 Pin=IOH-6
+Added Pin To Net: NetName=PWM_IN_1 Pin=IOL-6
+Added Pin To Net: NetName=PWM_IN_2 Pin=IOL-8
